@@ -1,0 +1,4 @@
+# CircuitCalculator
+A circuit equation calculator based on [Directed Graph](https://en.wikipedia.org/wiki/Directed_graph), [Johnson's Algorithm](https://www.cs.tufts.edu/comp/150GA/homeworks/hw1/Johnson%2075.PDF) to find all simple cycles in directed graph, [Tarjan's Algorithm](https://en.wikipedia.org/wiki/Tarjan%27s_strongly_connected_components_algorithm) to find all strongly connected components in a graph, and an algorithm that uses a concept resembling the [Serial-Parallel Graph](https://en.wikipedia.org/wiki/Series%E2%80%93parallel_graph) to find the atomic parallel parts in the graph
+
+Check the core algorithm at `CircuitGraphEvaluator.cpp`
